@@ -1,0 +1,14 @@
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    width: 100%;
+    background-position: "top center";
+    /* background-attachment: fixed; */
+    background: linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.18)), url("https://img.freepik.com/premium-photo/modern-living-room-with-sofa-decorations_180507-252.jpg?w=2000");    
+    /* object-fit: 'cover'; */
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    text-align: center; 
+    z-index: 1;
+    position: relative;
+}
